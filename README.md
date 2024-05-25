@@ -4,7 +4,7 @@ ETL Pipeline: Spotify API > AWS [CloudWatch trigger > Lambda (Python) > S3] > Sn
 
 ### Architecture Diagram
 
-![Architecture Diagram](https://media.licdn.com/dms/image/D4E22AQElmJVBRVcLVQ/feedshare-shrink_1280/0/1699018039964?e=1717027200&v=beta&t=tuUnJa6i-A0aS41z6puuqIw7pncKZx77dLDAU1SMq3E)
+![Architecture Diagram](https://raw.githubusercontent.com/rokusho235/spotify-to-aws-to-snowpipe-project/main/aws-snowflakePipeline.png)
 
 ### Services Used
 
